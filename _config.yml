@@ -26,5 +26,9 @@ paginate: 5
 paginate_path: "blog/page:num"
 
 # Gems
+<<<<<<< Updated upstream
 gems:
+=======
+gem:
+>>>>>>> Stashed changes
   - jekyll-paginate
