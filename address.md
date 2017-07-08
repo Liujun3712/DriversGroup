@@ -1,41 +1,74 @@
 ---
-layout: page
-title: Address
-
+layout: address
+title: <h1 id="Description"><a href="#Description"><font color="000000">说明</font></a></h1>
 ---
 
-Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+根据不同的发车平台，下单地址主要分为两类：[<font color="f57d12">京东地址</font>](#JD-Address)和[<font color="f57d12">国美、苏宁、天猫地址</font>](#Gome-Address)。   
+    
+其他平台按照管理员在群中消息为准，如果未明确可以参照[<font color="f57d12">国美、苏宁、天猫地址</font>](#Gome-Address)填写。   
+   
+<p><p><font color="#FF0000">请认真仔细填写地址以保证能顺利收货回款。</font></p></p>
+*****
+<h2 id="JD-Address"><a href="#JD-Address"><font color="000000">京东地址</font></a></h2>
+<p><font color="215adc">收件人：</font></p>
+收件人名字后面加<font color="#FF0000">洪</font>， 例：<code>张三</code>应填为<code>张三<font color="#FF0000">洪</font></code>
+<p><font color="215adc">所在地区：</font></p>
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* inspired by [Cody House's](https://codyhouse.co/) [Reading Progress Indicator](https://codyhouse.co/demo/reading-progress-indicator/index.html).
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed in an afternoon.
+<code>安徽省</code>/<code>合肥市</code>/<code>蜀山区</code>/<code>城区</code>   
 
----
+<p><font color="215adc">详细地址：</font></p>
 
-## Progress
+合肥市蜀山区中国科学技术大学西区<font color="b45ee5">***</font>学院<font color="b45ee5">***</font>楼<font color="b45ee5">***</font>室<font color="#FF0000">-洪</font>   
+合肥市蜀山区中国科学技术大学（西校区）<font color="b45ee5">***</font>学院<font color="b45ee5">***</font>楼<font color="b45ee5">***</font>室<font color="#FF0000">-洪</font>   
+合肥市蜀山区黄山路443号中科大软件学院<font color="b45ee5">***</font>学院<font color="b45ee5">***</font>楼<font color="b45ee5">***</font>室<font color="#FF0000">-洪</font>   
+合肥市蜀山区中国科学技术大学西区生物楼<font color="b45ee5">***</font>学院<font color="b45ee5">***</font>楼<font color="b45ee5">***</font>室<font color="#FF0000">-洪</font>   
+合肥市蜀山区肥西路中科大中国科技大学东区京东派<font color="b45ee5">***</font>学院<font color="b45ee5">***</font>楼<font color="b45ee5">***</font>室<font color="#FF0000">-洪</font>   
 
-Progress was built and inspired by [Cody House's](https://codyhouse.co/) [Reading Progress Indicator](https://codyhouse.co/demo/reading-progress-indicator/index.html). The folks over at Cody House are pretty fantastic and are making some awesome things. They're also super responsive to comments, so head on over there and check out what they've been doing. 
+地址中<code><font color="b45ee5">***</font></code>替换为任意3位以上数字，如：<code><font color="b45ee5">537269</font></code>   
 
-Progress features quick and simple environment is set up so users can input all the necesarry info in the config file and start blogging. Further reiterations are in progress to turn this into a Wordpress theme or make it fully editable with Cloudcannon CMS. I cannot let you resell this unless you [contact me](mailto:alex@collectivelymade.com)
+地址末尾<code><font color="#FF0000">-洪</font></code>不可省略，否则将导致无法正常收件   
 
-If you'd like give credit somewhere on your blog or tweet a shout out to
-[@alexanderussell](https://twitter.com/alexanderussell), that would be pretty sweet. 
 
-If you feel like donating — [Give it a thought.](https://flattr.com/profile/alexanderussell)
 
----
+<p><font color="215adc">手机号码：</font></p>   
+电话填写自己能接听电话的手机号码    
+ 
+*****    
 
-## Basic Setup
+<h2 id="Gome-Address"><a href="#Gome-Address"><font color="000000">国美、苏宁、天猫地址</font></a></h2>
 
-1. [Install Jekyll](http://jekyllrb.com) if you haven't already.
-2. Download this bad boy. 
-3. Fork the [Progress repo](http://github.com/alexanderussell/progress-for-jekyll/)
-4. Twerk it out so it's just for you.
-5.  ???
-6.  Profit
+<p><font color="215adc">收件人：</font></p>
+收件人名字后面加<font color="#FF0000">洪</font>， 例：<code>张三</code>应填为<code>张三<font color="#FF0000">洪</font></code>
+<p><font color="215adc">所在地区：</font></p>
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/alexanderussell/progress-for-jekyll/issues/new) or [ask me on Twitter](https://twitter.com/alexanderussell).
+<code>安徽省</code>/<code>合肥市</code>/<code>瑶海区</code>/<code>方庙街道</code>
+<p><font color="215adc">详细地址：</font></p>
 
-Thanks!
+安徽省合肥市瑶海区铜陵北路凌花大厦<font color="b45ee5">***</font>号<font color="b45ee5">***</font>室<font color="#FF0000">-洪</font>   
+安徽省合肥市瑶海区人才苑北村小区<font color="b45ee5">***</font>号<font color="b45ee5">***</font>室<font color="#FF0000">-洪</font>   
+安徽省合肥市瑶海区定远路87号国轩新苑小区<font color="b45ee5">***</font>号<font color="b45ee5">***</font>室<font color="#FF0000">-洪</font>   
+安徽省合肥市瑶海区临泉路汪塘新村小区<font color="b45ee5">***</font>号<font color="b45ee5">***</font>室<font color="#FF0000">-洪</font>   
+安徽省合肥市瑶海区瑶海区定远路国城花园小区<font color="b45ee5">***</font>号<font color="b45ee5">***</font>室<font color="#FF0000">-洪</font>   
+安徽省合肥市瑶海区临泉路与定远路交叉口宝元公寓<font color="b45ee5">***</font>号<font color="b45ee5">***</font>室<font color="#FF0000">-洪</font>   
+安徽省合肥市瑶海区临泉路汪塘东村小区<font color="b45ee5">***</font>号<font color="b45ee5">***</font>室<font color="#FF0000">-洪</font>   
+安徽省合肥市瑶海区临泉路香江世纪名城小区<font color="b45ee5">***</font>号<font color="b45ee5">***</font>室<font color="#FF0000">-洪</font>   
+安徽省合肥市瑶海区泗州路康乐出租公寓<font color="b45ee5">***</font>号<font color="b45ee5">***</font>室<font color="#FF0000">-洪</font>   
+安徽省合肥市瑶海区泗州路芳邻家园小区<font color="b45ee5">***</font>号<font color="b45ee5">***</font>室<font color="#FF0000">-洪</font>   
+安徽省合肥市瑶海区凤阳东路花冲苑小区<font color="b45ee5">***</font>号<font color="b45ee5">***</font>室<font color="#FF0000">-洪</font>   
+安徽省合肥市瑶海区当涂路与临泉路交叉口江晨园小区<font color="b45ee5">***</font>号<font color="b45ee5">***</font>室<font color="#FF0000">-洪</font>   
+安徽省合肥市瑶海区长江东路宝业东城广场<font color="b45ee5">***</font>号<font color="b45ee5">***</font>室<font color="#FF0000">-洪</font>   
+安徽省合肥市瑶海区铜陵北路恒丰嘉园小区<font color="b45ee5">***</font>号<font color="b45ee5">***</font>室<font color="#FF0000">-洪</font>   
+安徽省合肥市瑶海区长江东路宝业东城广场<font color="b45ee5">***</font>号<font color="b45ee5">***</font>室<font color="#FF0000">-洪</font>   
+安徽省合肥市瑶海区铜陵北路铜凤大厦<font color="b45ee5">***</font>号<font color="b45ee5">***</font>室<font color="#FF0000">-洪</font>   
+安徽省合肥市瑶海区长江东路快达小康苑小区<font color="b45ee5">***</font>号<font color="b45ee5">***</font>室<font color="#FF0000">-洪</font>   
+安徽省合肥市瑶海区长江东路天都小区小区<font color="b45ee5">***</font>号<font color="b45ee5">***</font>室<font color="#FF0000">-洪</font>   
+安徽省合肥市瑶海区长江东路居然之家<font color="b45ee5">***</font>号<font color="b45ee5">***</font>室<font color="#FF0000">-洪</font>   
+安徽省合肥市瑶海区橘郡万绿园西门满庭芳饭店<font color="b45ee5">***</font>号<font color="b45ee5">***</font>室<font color="#FF0000">-洪</font>   
+
+地址中<code><font color="b45ee5">***</font></code>替换为任意3位以上数字，如：<code><font color="b45ee5">537269</font></code>   
+   
+   
+地址末尾<code><font color="#FF0000">-洪</font></code>不可省略，否则将导致无法正常收件
+
+<p><font color="215adc">手机号码：</font></p>   
+电话填写自己能接听电话的手机号码

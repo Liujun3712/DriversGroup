@@ -2,10 +2,13 @@
 
 - title: Home
   href: "/"
-- title: Address
+  external: false
+- title: 下单地址
   href: "/address"
-- title: Archive
+  external: false
+- title: 车次信息
   href: "/archive"
+  external: false
 #- title: Donate
 #  href: "https://flattr.com/profile/alexanderussell"
 #  external: true

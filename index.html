@@ -55,15 +55,15 @@
         <ul>
 
             <li>
-                <a href="/DriversGroup/"">Home</a>
+                <a href="/DriversGroup/">Home</a>
             </li>
 
             <li>
-                <a href="/DriversGroup/address"">下单地址</a>
+                <a href="/DriversGroup/address">下单地址</a>
             </li>
 
             <li>
-                <a href="/DriversGroup/archive"">车次信息</a>
+                <a href="/DriversGroup/archive">车次信息</a>
             </li>
 
 
@@ -72,12 +72,15 @@
 </header>
 
 <main>
+
     <div class="articles">
 
 
         <article class="post">
-            <header>
 
+
+            <header>
+                <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
                 <h1> 发车须知 </h1>
             </header>
 
@@ -383,7 +386,7 @@
                 <li>
                     <a href="#">
                         <h3><em>发车须知</em></h3>
-                        <small><b></b></small>
+                        <small><b>Wars</b></small>
                         <svg x="0px" y="0px" width="36px" height="36px" viewBox="0 0 36 36">
                             <circle fill="none" stroke-width="2" cx="18" cy="18" r="16" stroke-dasharray="100 100"
                                     stroke-dashoffset="100" transform="rotate(-90 18 18)"></circle>

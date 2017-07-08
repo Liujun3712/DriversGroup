@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+<div class="articles">
+
+    <!--    对文章根据index_order来进行排序 -->
+    {% assign sorted_posts = site.posts | sort:"index_order" %}
+    {% for x in sorted_posts %}                                     <!-- for里面可以随便一个临时变量-->
+    {% if x.index_order != null %}
+    <article class="post">
+        <header>
+            {% if x.img %}
+            <img src="{{site.baseurl}}/img/{{x.img}}" alt="{{x.img}}">
+            {% endif %}
+            <h1> {{ x.title }} </h1>
+        </header>
+
+        {{ x.content }}
+        <!--    保留分享的接口 -->
+        {% include _share-post.html %}
+
+    </article>
+
+    {% endif %}
+    {% endfor %}
+
+
+    <aside class="read-more">
+        <ul>
+            <!--    对文章根据tag来进行排序 -->
+            {% assign sorted_tag_posts = site.posts | sort:"tag" %}
+            {% for y in sorted_tag_posts %}                                     <!-- for里面可以随便一个临时变量-->
+            {% if y.tag != null %}
+            <li>
+                <a href="{{site.baseurl}}{{x.url}}">
+                    <h3><em>{{y.title}}</em></h3>
+                    <small><b>{{y.author}}</b></small>
+                    <svg x="0px" y="0px" width="36px" height="36px" viewBox="0 0 36 36">
+                        <circle fill="none" stroke-width="2" cx="18" cy="18" r="16" stroke-dasharray="100 100"
+                                stroke-dashoffset="100" transform="rotate(-90 18 18)"></circle>
+                    </svg>
+                </a>
+            </li>
+            {% endif %}
+            {% endfor %}
+
+
+        </ul>
+
+
+    </aside>
+
+</div>

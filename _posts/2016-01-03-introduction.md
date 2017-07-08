@@ -3,6 +3,8 @@ layout: post
 title: Introduction to Progress
 author: "Alexander Russell"
 img: img-1.png
+tag: 1
+index_order: 1
 ---
 
 Progress was built and inspired by [Cody House's](https://codyhouse.co/) [Reading Progress Indicator](https://codyhouse.co/demo/reading-progress-indicator/index.html). The folks over at Cody House are pretty fantastic and are making some awesome things. They're also super responsive to comments, so head on over there and check out what they've been doing. 

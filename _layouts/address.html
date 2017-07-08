@@ -1,0 +1,25 @@
+---
+layout: page
+title: 车次信息
+permalink: "address/"
+---
+
+
+<div class="articles">
+    <article class="post">
+        <header>
+            {% if x.img %}
+            <img src="{{site.baseurl}}/img/{{x.img}}" alt="{{x.img}}">
+            {% endif %}
+            <h1> {{ post.title }} </h1>
+        </header>
+        {{ content }}
+        <!--    保留分享的接口 -->
+        {% include _share-post.html %}
+
+    </article>
+
+
+
+
+</div>
