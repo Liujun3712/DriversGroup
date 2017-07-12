@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 需要准备的电商账号
-author: "Alexander Russell"
-img: img-1.png
+author: "Wars"
 tag: 1
 index_order: 1
 --- 
