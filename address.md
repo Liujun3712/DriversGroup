@@ -1,8 +1,9 @@
 ---
 layout: address
-title: <h1 id="Description"><a href="#Description"><font color="000000">说明</font></a></h1>
+title: 下单地址
 ---
-
+*****
+<h2 id="Description"><a href="#Description"><font color="000000">说明</font></a></h2>
 根据不同的发车平台，下单地址主要分为两类：[<font color="f57d12">京东地址</font>](#JD-Address)和[<font color="f57d12">国美、苏宁、天猫地址</font>](#Gome-Address)。   
     
 其他平台按照管理员在群中消息为准，如果未明确可以参照[<font color="f57d12">国美、苏宁、天猫地址</font>](#Gome-Address)填写。   
@@ -71,4 +72,4 @@ title: <h1 id="Description"><a href="#Description"><font color="000000">说明</
 地址末尾<code><font color="#FF0000">-洪</font></code>不可省略，否则将导致无法正常收件
 
 <p><font color="215adc">手机号码：</font></p>   
-电话填写自己能接听电话的手机号码
+电话填写自己能接听电话的手机号码    
