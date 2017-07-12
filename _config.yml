@@ -21,9 +21,9 @@ version:             2.0.0
 github:
   repo:              
 
-# Pagination
-paginate: 6
-paginate_path: "blog/page:num"
+# Pagination        分页功能
+#paginate: 6
+#paginate_path: "blog/page:num"
 
 
 # Gems
