@@ -9,6 +9,9 @@
 - title: 车次信息
   href: "/archive"
   external: false
+- title: 礼品卡
+  href: "/giftcards"
+  external: false
 #- title: Donate
 #  href: "https://flattr.com/profile/alexanderussell"
 #  external: true
